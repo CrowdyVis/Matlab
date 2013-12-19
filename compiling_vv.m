@@ -97,5 +97,3 @@ for j = 1:2*P
     % were going when they reach the end of the channel
 
 end
-
-end
